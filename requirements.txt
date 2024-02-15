@@ -1,0 +1,15 @@
+deepspeed==0.12.3
+faiss_gpu==1.7.2
+jieba==0.42.1
+nltk==3.8.1
+numpy==1.22.2
+pandas==1.5.2
+pytorch_lightning==1.9.5
+regex==2022.10.31
+scikit_learn==1.2.0
+torch==2.0.0a0+1767026  # try torch==2.0.1 if you encounter issues
+torchmetrics==1.2.0
+tqdm==4.65.0
+transformers==4.31.0
+wandb==0.15.12
+xgboost==1.7.1
