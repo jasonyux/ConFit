@@ -1,6 +1,6 @@
 # ConFit
 
-This repository contains an official implementation of ConFit, which is described in this paper:
+This repository contains an official implementation of ConFit, which is described in the *RecSys 24'* paper:
 
 **ConFit: Improving Resume-Job Matching using Data Augmentation and Contrastive Learning**<br>
 *Xiao Yu, Jinzhong Zhang, Zhou Yu*
